@@ -1,4 +1,4 @@
-﻿# NEUP-Net-Department 2019 Mengxin Git Plan (I)
+# NEUP-Net-Department 2019 Mengxin Git Plan (I)
 ## 任务要求
 首先，你需要在 GitHub 上 **fork** 本仓库，从而在你的 GitHub 仓库列表中创建一份 fork 副本。
 
@@ -16,7 +16,7 @@
 
 条目上方已经有一些来自学长的提交，请按照格式继续写下去。
 
-如果你拥有个人主页并且愿意分享，可以把这个链接指向你的主页
+如果你拥有个人主页并且愿意分享，可以把这个链接指向你的主页。
 
 
 ## 提交列表
@@ -29,4 +29,8 @@
 - [Length](https://github.com/3047927842)
 - [czfzc](https://github.com/czfzc)
 - [l-z-l](https://github.com/l-z-l)
+- [maxzed6](https://github.com/maxzed6)
 - [Dwarf](https://github.com/TrisSSS)
+- [jiongjiong](https://github.com/jiongjiongsir)
+- [ltylover](https://github.com/ltylover)
+- [yqw1212](https://github.com/yqw1212)
